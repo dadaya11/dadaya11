@@ -1,0 +1,11 @@
+body {
+     background: url(da.jpg);
+     height: 100vh
+     bacground-repeat: no-repeat;
+}
+
+h1 {
+     text-transform: uppercase
+     margin: 150px;
+     font-size; 10px;
+}
